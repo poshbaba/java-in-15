@@ -65,3 +65,5 @@ Deploying booking-api
 **Continuity and next episode:** The milestone combines prior concepts; OOP follows in the next module.
 
 [Previous lesson](../day-09-methods/README.md) · [Milestone project](../../projects/deployment-health-checker/README.md)
+
+[Next lesson: Day 11 — Method Scope](../day-11-method-scope/README.md)

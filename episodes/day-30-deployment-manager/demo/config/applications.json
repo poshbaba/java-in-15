@@ -1,0 +1,20 @@
+[
+  {
+    "name": "booking-api",
+    "totalReplicas": 20,
+    "healthyReplicas": 19,
+    "successAttempt": 2
+  },
+  {
+    "name": "payment-api",
+    "totalReplicas": 20,
+    "healthyReplicas": 17,
+    "successAttempt": 2
+  },
+  {
+    "name": "catalog-api",
+    "totalReplicas": 20,
+    "healthyReplicas": 15,
+    "successAttempt": 2
+  }
+]
